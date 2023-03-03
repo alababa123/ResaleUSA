@@ -1,0 +1,2 @@
+ROOT_FOR_SAVE_IMAGES = ''
+URL_DJANGO = 'localhost:8000'
